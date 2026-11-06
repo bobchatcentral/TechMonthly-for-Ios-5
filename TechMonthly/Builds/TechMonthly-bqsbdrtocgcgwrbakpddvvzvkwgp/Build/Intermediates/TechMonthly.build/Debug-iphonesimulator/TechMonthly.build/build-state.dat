@@ -1,0 +1,462 @@
+TTechMonthly
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Info.plist TechMonthly/TechMonthly-Info.plist
+cProcessPCH /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.pth TechMonthly/TechMonthly-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly normal i386
+cGenerateDSYMFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly
+cCopyStringsFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/en.lproj/InfoPlist.strings TechMonthly/en.lproj/InfoPlist.strings
+cCpResource TechMonthly/Default.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default.png
+cCpResource TechMonthly/Default@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default@2x.png
+cCpResource TechMonthly/Default-568h@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default-568h@2x.png
+cCpResource TechMonthly/../../../../Downloads/cover_placeholder@2x.jpg /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder@2x.jpg
+cCpResource TechMonthly/../../../../Downloads/cover_placeholder.jpg /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder.jpg
+cCpResource TechMonthly/NewsstandIcon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon.png
+cCpResource TechMonthly/NewsstandIcon@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon@2x.png
+cCpResource Icon@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon@2x.png
+cCpResource Icon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon.png
+cTouch /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000687807150000000000173260
+t1752696597
+s1520224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+c0000000068780715000000000006E970
+t1752696597
+s452976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051B4C2AF0000000000228FE0
+t1370800815
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051B4C2BE00000000003DDFA0
+t1370800830
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051B4C2BE00000000000015F7
+t1370800830
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051B4C2F90000000000000E8D
+t1370800889
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051B4C2FD0000000000AB6230
+t1370800893
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051B4C3A70000000000001B73
+t1370801063
+s7027
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.pth
+t1793926775
+s4675492
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.o
+t1793926775
+s94152
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.o
+t1793931720
+s248860
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.o
+t1793931720
+s129292
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/TechMonthly.LinkFileList
+c000000006AED35F80000000000000321
+t1793930744
+s801
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.o
+t1793926775
+s3316
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app
+t1793931992
+s510
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM
+t1793931720
+s102
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default-568h@2x.png
+t1793926775
+s18594
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default.png
+t1793926775
+s6540
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default@2x.png
+t1793926775
+s16107
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon.png
+t1793931992
+s8681
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon@2x.png
+t1793931992
+s13723
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Info.plist
+t1793931992
+s1282
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon.png
+t1793931720
+s51125
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon@2x.png
+t1793931720
+s125514
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/PkgInfo
+t1793931992
+s8
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly
+t1793931720
+s152428
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder.jpg
+t1793930745
+s8222
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder@2x.jpg
+t1793930745
+s11422
+
+N/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/en.lproj/InfoPlist.strings
+t1793926775
+s42
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/Icon.png
+c000000006AED3A8500000000000021E9
+t1793931909
+s8681
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/Icon@2x.png
+c000000006AED3A89000000000000359B
+t1793931913
+s13723
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/../../../../Downloads/cover_placeholder.jpg
+c000000006AED2FF3000000000000201E
+t1793929203
+s8222
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/../../../../Downloads/cover_placeholder@2x.jpg
+c000000006AED2FF70000000000002C9E
+t1793929207
+s11422
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.h
+c000000006AED21E900000000000001B5
+t1793925609
+s437
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m
+c000000006AED25C0000000000000099C
+t1793926592
+s2460
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/Default-568h@2x.png
+c0000000051B1755C00000000000048A2
+t1370584412
+s18594
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/Default.png
+c0000000051B1755C000000000000198C
+t1370584412
+s6540
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/Default@2x.png
+c0000000051B1755C0000000000003EEB
+t1370584412
+s16107
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.h
+c000000006AED24E80000000000000167
+t1793926376
+s359
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.m
+c000000006AED38860000000000007ED7
+t1793931398
+s32471
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/NewsstandIcon.png
+c000000006AED37EE000000000000C7B5
+t1793931246
+s51125
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/NewsstandIcon@2x.png
+c000000006AED37F3000000000001EA4A
+t1793931251
+s125514
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.h
+c000000006AED38860000000000000326
+t1793931398
+s806
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.m
+c000000006AED38860000000000003980
+t1793931398
+s14720
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/TechMonthly-Prefix.pch
+c000000006AED21E90000000000000145
+t1793925609
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/en.lproj/InfoPlist.strings
+c000000006AED21E9000000000000002D
+t1793925609
+s45
+
+N/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m
+c000000006AED21E90000000000000158
+t1793925609
+s344
+
+NTechMonthly/TechMonthly-Info.plist
+c000000006AED3AA6000000000000086A
+t1793931942
+s2154
+
+CBuild AST from /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m
+r0
+
+CBuild AST from /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.m
+r0
+
+CBuild AST from /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.m
+r0
+
+CBuild AST from /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies19382831b94ec841^5e4d2831b94ec841^---0#1#0#--18"Check dependencies36"316A8250-8F5A-4934-8CFE-73A713D65731-
+
+CCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s815619575.035211
+e815619575.129094
+r1
+xCompileC
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.o
+x/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m861e85fbae4ec841^168a90fbae4ec841^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m0000000000000000^4344"CompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.o TechMonthly/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-generated-files.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-own-target-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-all-target-headers.hmap -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-project-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources/i386 -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources -F/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator -include /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch -MMD -MT dependencies -MF /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.dia -c /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/AppDelegate.m -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/AppDelegate.o36"32BDBCC0-B9BC-4EF9-9CF2-7FC446A07387-
+
+CCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s815624520.266398
+e815624520.434440
+r1
+xCompileC
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.o
+x/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.mbb6422a4b84ec841^289c37a4b84ec841^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.m0000000000000000^4398"CompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.o TechMonthly/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-generated-files.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-own-target-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-all-target-headers.hmap -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-project-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources/i386 -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources -F/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator -include /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch -MMD -MT dependencies -MF /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.d --serialize-diagnostics /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.dia -c /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/MasterViewController.m -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/MasterViewController.o36"EE0C40BA-5DAF-41E0-950C-D0E121AC00C7-
+
+CCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s815624520.266404
+e815624520.363367
+r1
+xCompileC
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.o
+x/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.mdd6022a4b84ec841^7b822ea4b84ec841^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.m0000000000000000^4410"CompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.o TechMonthly/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-generated-files.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-own-target-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-all-target-headers.hmap -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-project-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources/i386 -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources -F/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator -include /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch -MMD -MT dependencies -MF /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.d --serialize-diagnostics /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.dia -c /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/SettingsViewController.m -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/SettingsViewController.o36"0121A71E-26E7-4072-8529-F79DFFE23E8D-
+
+CCompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.o /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s815619575.035220
+e815619575.079234
+r1
+xCompileC
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.o
+x/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m249c84fbae4ec841^6c238afbae4ec841^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m0000000000000000^4302"CompileC /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.o TechMonthly/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-generated-files.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-own-target-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-all-target-headers.hmap -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-project-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources/i386 -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources -F/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator -include /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch -MMD -MT dependencies -MF /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.dia -c /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/main.m -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/main.o36"8AA59218-1477-41B7-A363-B5E2C109CC95-
+
+CCopyStringsFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/en.lproj/InfoPlist.strings TechMonthly/en.lproj/InfoPlist.strings
+s815619575.240582
+e815619575.243114
+r1
+xCopyStringsFile
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/en.lproj/InfoPlist.strings
+xTechMonthly/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy TechMonthly/en.lproj/InfoPlist.strings80d49efbae4ec841^821f9ffbae4ec841^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/en.lproj/InfoPlist.strings0000000000000000^750"CopyStringsFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/en.lproj/InfoPlist.strings TechMonthly/en.lproj/InfoPlist.strings    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/en.lproj -- TechMonthly/en.lproj/InfoPlist.strings36"8314D8BB-FAE3-42EE-8A05-AB15BB621B63-
+
+CCpResource Icon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon.png
+s815624792.488563
+e815624792.490703
+r1
+xCpResource
+xIcon.png
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon.png9f913e2cb94ec841^1de93e2cb94ec841^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon.png000000000080d041^726"CpResource Icon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon.png    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/evrikImac/Desktop/TechMonthly/TechMonthly/Icon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"DAF85BA3-9475-4677-A9F6-EF4D4B007D22-
+
+CCpResource Icon@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon@2x.png
+s815624792.488399
+e815624792.495634
+r1
+xCpResource
+xIcon@2x.png
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon@2x.pngc1913e2cb94ec841^78973f2cb94ec841^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon@2x.png000000000080d041^741"CpResource "Icon@2x.png" "/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Icon@2x.png"    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/evrikImac/Desktop/TechMonthly/TechMonthly/Icon@2x.png" /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"994B1795-0F35-44E6-8878-98EC305B9019-
+
+CCpResource TechMonthly/../../../../Downloads/cover_placeholder.jpg /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder.jpg
+s815623545.392463
+e815623545.398994
+r1
+xCpResource
+xTechMonthly/../../../../Downloads/cover_placeholder.jpg
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder.jpgd3bdb2bcb64ec841^3c12b3bcb64ec841^---0#0#0#-19%DVTDocumentLocation2@175"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder.jpg000000000080d041^833"CpResource TechMonthly/../../../../Downloads/cover_placeholder.jpg /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder.jpg    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/../../../../Downloads/cover_placeholder.jpg /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"C12D1997-6CDF-40CF-B0BE-E0D1AD6A60D2-
+
+CCpResource TechMonthly/../../../../Downloads/cover_placeholder@2x.jpg /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder@2x.jpg
+s815623545.392532
+e815623545.405479
+r1
+xCpResource
+xTechMonthly/../../../../Downloads/cover_placeholder@2x.jpg
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder@2x.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder@2x.jpg0ec0b2bcb64ec841^92e6b3bcb64ec841^---0#0#0#-19%DVTDocumentLocation2@178"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder@2x.jpg000000000080d041^848"CpResource "TechMonthly/../../../../Downloads/cover_placeholder@2x.jpg" "/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/cover_placeholder@2x.jpg"    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/../../../../Downloads/cover_placeholder@2x.jpg" /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"3DBB80F2-7931-437F-93BC-350036764048-
+
+CCpResource TechMonthly/Default-568h@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default-568h@2x.png
+s815619575.241040
+e815619575.246084
+r1
+xCpResource
+xTechMonthly/Default-568h@2x.png
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default-568h@2x.png19e29efbae4ec841^a67f9ffbae4ec841^---0#0#0#-19%DVTDocumentLocation2@173"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default-568h@2x.png000000000080d041^789"CpResource "TechMonthly/Default-568h@2x.png" "/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default-568h@2x.png"    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/Default-568h@2x.png" /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"C4A76587-2C39-47AF-B3F2-77AC19D5DCE8-
+
+CCpResource TechMonthly/Default.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default.png
+s815619575.240586
+e815619575.243793
+r1
+xCpResource
+xTechMonthly/Default.png
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default.pngd4d49efbae4ec841^a4349ffbae4ec841^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default.png000000000080d041^759"CpResource TechMonthly/Default.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default.png    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/Default.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"FEC3C12B-E975-40B5-97EC-E7048C7910F1-
+
+CCpResource TechMonthly/Default@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default@2x.png
+s815619575.240834
+e815619575.244837
+r1
+xCpResource
+xTechMonthly/Default@2x.png
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default@2x.png12dc9efbae4ec841^c9569ffbae4ec841^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default@2x.png000000000080d041^774"CpResource "TechMonthly/Default@2x.png" "/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Default@2x.png"    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/Default@2x.png" /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"E4F306DB-838B-40AB-8A71-BE11145CBDC7-
+
+CCpResource TechMonthly/NewsstandIcon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon.png
+s815624520.535039
+e815624520.547609
+r1
+xCpResource
+xTechMonthly/NewsstandIcon.png
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon.pngb64d45a4b84ec841^5f4346a4b84ec841^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon.png000000000080d041^777"CpResource TechMonthly/NewsstandIcon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon.png    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/NewsstandIcon.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"E81834C7-EAFA-4962-9186-C089A257DEFC-
+
+CCpResource TechMonthly/NewsstandIcon@2x.png /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon@2x.png
+s815624520.535063
+e815624520.546954
+r1
+xCpResource
+xTechMonthly/NewsstandIcon@2x.png
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Copy /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon@2x.png1b4c45a4b84ec841^250346a4b84ec841^---0#0#0#-19%DVTDocumentLocation2@174"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon@2x.png000000000080d041^792"CpResource "TechMonthly/NewsstandIcon@2x.png" "/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/NewsstandIcon@2x.png"    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/NewsstandIcon@2x.png" /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"EC85BFD3-5F31-47A6-93BB-99776DBA5F6A-
+
+CGenerateDSYMFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly
+s815624520.496571
+e815624520.524853
+r1
+xGenerateDSYMFile
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Generate /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM44c43fa4b84ec841^3c2d43a4b84ec841^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM/0000000000000000^957"GenerateDSYMFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app.dSYM36"A9A0B8FC-FC14-44DC-BD04-1369F3464652-
+
+CLd /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly normal i386
+s815624520.447416
+e815624520.489772
+r1
+xLd
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Link /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly846439a4b84ec841^c9b03ea4b84ec841^---0#0#0#--1547"Ld /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly normal i386    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator -F/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator -filelist /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/Objects-normal/i386/TechMonthly.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework QuartzCore -framework QuickLook -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/TechMonthly36"C9A5B367-5C11-4375-9820-CD8F878CAA50-
+
+CProcessInfoPlistFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Info.plist TechMonthly/TechMonthly-Info.plist
+s815624792.424530
+e815624792.428963
+r1
+xProcessInfoPlistFile
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Info.plist
+xTechMonthly/TechMonthly-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process TechMonthly/TechMonthly-Info.pliste97e362cb94ec841^42e8362cb94ec841^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/TechMonthly-Info.plist0000000000000000^892"ProcessInfoPlistFile /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Info.plist TechMonthly/TechMonthly-Info.plist    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TechMonthly/TechMonthly-Info.plist -genpkginfo /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app/Info.plist36"3D9A7A3E-5C20-4314-A393-6B83702FE8E1-
+
+CProcessPCH /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.pth TechMonthly/TechMonthly-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s815619574.746152
+e815619575.028896
+r1
+xProcessPCH
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.pth
+xTechMonthly/TechMonthly-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile TechMonthly/TechMonthly-Prefix.pch9b8d5ffbae4ec841^53b383fbae4ec841^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/TechMonthly-Prefix.pch0000000000000000^4171"ProcessPCH /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.pth TechMonthly/TechMonthly-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-generated-files.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-own-target-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-all-target-headers.hmap -iquote /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/TechMonthly-project-headers.hmap -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources/i386 -I/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/TechMonthly.build/Debug-iphonesimulator/TechMonthly.build/DerivedSources -F/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.dia -c /Users/evrikImac/Desktop/TechMonthly/TechMonthly/TechMonthly/TechMonthly-Prefix.pch -o /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.pth -MMD -MT dependencies -MF /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/PrecompiledHeaders/TechMonthly-Prefix-glxqodebfjeifbcioytjpaopqoja/TechMonthly-Prefix.pch.d36"06AD1D4A-52B3-42DF-BCFA-AE8EE86AE0B3-
+
+CProcessPCH /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Index/PrecompiledHeaders/TechMonthly-Prefix-geprejyohtejzegocxlxpzallame_ast/TechMonthly-Prefix.pch.pth TechMonthly/TechMonthly-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app
+s815624792.504725
+e815624792.509980
+r1
+xTouch
+x/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Touch /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.appada1402cb94ec841^0f47412cb94ec841^---0#0#0#--555"Touch /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app    cd /Users/evrikImac/Desktop/TechMonthly/TechMonthly    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Products/Debug-iphonesimulator/TechMonthly.app36"39454DDB-7AE9-4DF5-B702-01AFAAB2C7B2-
+

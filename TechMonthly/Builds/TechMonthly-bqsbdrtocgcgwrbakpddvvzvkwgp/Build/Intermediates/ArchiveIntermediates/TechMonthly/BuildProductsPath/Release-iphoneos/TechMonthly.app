@@ -1,0 +1,1 @@
+/Users/evrikImac/Desktop/TechMonthly/Builds/TechMonthly-bqsbdrtocgcgwrbakpddvvzvkwgp/Build/Intermediates/ArchiveIntermediates/TechMonthly/InstallationBuildProductsLocation/Applications/TechMonthly.app
